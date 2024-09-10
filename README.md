@@ -58,9 +58,10 @@ The final STL is in indiafoss-2024-keychain.stl.
 
 I carefully sliced the model with PrusaSlicer, to prepare the model for printing
 on my Prusa i3 MK2. Used elephant foot compensation. Enabled ironing on all top
-layers for a great finish.  A 0.25mm nozzle is used to ensure that fine text
-prints fine. I use ColorFabb nGen, as it has worked great for me for many years.
-Excellent prints and great colors. The model was scaled by 120% in XY, but Z
+layers for a great finish.  ColorPrint setup to change filament at Z=1.1 and
+Z=3.2. A 0.25mm nozzle is used to ensure that fine text prints fine. I use
+ColorFabb nGen, as it has worked great for me for many years.  Excellent prints
+and great colors. The model was scaled by 120% in XY, but Z
 was unaltered. 3 mm thick keychains is good.
 
 24 pieces of Classic were printed in one go. A 28 hour print. Settings are in
