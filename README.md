@@ -1,12 +1,12 @@
 
-This is a 3D model of a keychain, modelled in the style of the IndiaFOSS 2024
-conference logo.  IndiaFOSS is India's premier volunteer led open source
-conference, organized by the FOSS United community.
+This is a 3D model of a keychain, modelled in the style of the [IndiaFOSS 2024
+conference](https://fossunited.org/indiafoss/2024) logo.  IndiaFOSS is India's
+premier volunteer led open source conference, organized by the FOSS United community.
 
 # Why a new design ?
 
-Every year brings in a new logo.  Thus, every year brings in a new design.
-And the opportunity to experiment and have fun.
+Every year brings in a new logo.  Thus, every year I need a new design.
+The perfect opportunity to experiment and have fun.
 
 # Refreshed design
 
@@ -66,10 +66,12 @@ was unaltered. 3 mm thick keychains is good.
 24 pieces of Classic were printed in one go. A 28 hour print. Settings are in
 mc-indiafoss-2024-keychain.3mf
 
-![Alt text](classic-24.png)
+![Print Bed Setup](classic-24.png)
 
 Here's the printing workflow:
  1. Initiate the print just before sleeping with the light green filament.
  2. Wake up in the morning, change to green.
  3. Change filament at the end of the day to white.
  4. Wake up to fresh cookies - oops, keychains!
+
+![The print](classic-24.jpg)
